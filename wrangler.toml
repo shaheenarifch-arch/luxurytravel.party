@@ -1,0 +1,13 @@
+name = "luxurytravel"
+compatibility_date = "2024-01-01"
+
+# Serve static files from current directory
+[assets]
+directory = "./"
+not_found_handling = "single-page-application"
+
+# Optional: cache headers
+[assets.headers]
+for = "/*"
+[assets.headers.headers]
+Cache-Control = "public, max-age=3600"
