@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://luxurytravel.party/sitemap.xml
+Sitemap: https://www.luxurytravel.party/sitemap.xml
