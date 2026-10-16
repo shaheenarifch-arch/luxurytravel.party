@@ -5,5 +5,19 @@
     "description": "Discover how to book a luxury yacht rental for small wedding ceremony, from choosing the right vessel to vetting crew, catering, and weather policies.",
     "file": "luxury-yacht-rental-for-small-wedding-ceremony.html",
     "date": "2026-10-11"
+  },
+  {
+    "keyword": "luxury sailboat rental for intimate celebration party",
+    "title": "Luxury Sailboat Rental for Intimate Celebration Party",
+    "description": "Discover how to book a luxury sailboat rental for intimate celebration party plans, from costs and crew to top platforms and planning mistakes to avoid.",
+    "file": "luxury-sailboat-rental-for-intimate-celebration-party.html",
+    "date": "2026-10-16",
+    "archetype": "authority_guide",
+    "archetype_confidence": 0.62,
+    "risk_level": "low",
+    "requires_human_review": false,
+    "google_quality_passed": true,
+    "eeat_score": 100,
+    "seo_aeo_score": 9.79
   }
 ]
