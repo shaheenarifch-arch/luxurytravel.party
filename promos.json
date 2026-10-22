@@ -1,0 +1,25 @@
+{
+  "updated": "2026-10-22",
+  "promos": [
+    {
+      "mid": "129485",
+      "brand": "Silver Brush",
+      "headline": "Save 10% on watercolor brushes",
+      "code": "FALLPROMO10",
+      "ends": "2026-11-04",
+      "source": "manual",
+      "url": "https://www.awin1.com/cread.php?awinmid=129485&awinaffid=3075433",
+      "id": "129485-fallpromo10"
+    },
+    {
+      "mid": "129485",
+      "brand": "Silver Brush",
+      "headline": "Free shipping on orders $99+",
+      "ends": "2026-11-04",
+      "source": "manual",
+      "url": "https://www.awin1.com/cread.php?awinmid=129485&awinaffid=3075433",
+      "id": "129485-free-shipping-on-orders-99-",
+      "code": ""
+    }
+  ]
+}
