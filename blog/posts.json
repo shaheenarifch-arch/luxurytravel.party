@@ -19,5 +19,19 @@
     "google_quality_passed": true,
     "eeat_score": 100,
     "seo_aeo_score": 9.79
+  },
+  {
+    "keyword": "affordable luxury boat rental for anniversary celebration",
+    "title": "Affordable Luxury Boat Rental for Anniversary Celebration",
+    "description": "Struggling to book an affordable luxury boat rental for anniversary celebration plans? Learn causes, quick checks, and fixes that save money.",
+    "file": "affordable-luxury-boat-rental-for-anniversary-celebration.html",
+    "date": "2026-10-30",
+    "archetype": "problem_solution",
+    "archetype_confidence": 0.57,
+    "risk_level": "low",
+    "requires_human_review": false,
+    "google_quality_passed": true,
+    "eeat_score": 100,
+    "seo_aeo_score": 8.04
   }
 ]
