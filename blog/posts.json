@@ -33,5 +33,19 @@
     "google_quality_passed": true,
     "eeat_score": 100,
     "seo_aeo_score": 8.04
+  },
+  {
+    "keyword": "Yacht and boat rental complete guide: costs, types and how to book",
+    "title": "Yacht and boat rental complete guide",
+    "description": "Yacht and boat rental complete guide: costs, types and how to book covers charter pricing, vessel types, and booking steps before you set sail.",
+    "file": "yacht-and-boat-rental-complete-guide-costs-types-and-how-to-book.html",
+    "date": "2026-10-31",
+    "archetype": "authority_guide",
+    "archetype_confidence": 0.9,
+    "risk_level": "low",
+    "requires_human_review": false,
+    "google_quality_passed": true,
+    "eeat_score": 100,
+    "seo_aeo_score": 9.1
   }
 ]
