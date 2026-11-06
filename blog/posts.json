@@ -61,5 +61,19 @@
     "google_quality_passed": true,
     "eeat_score": 100,
     "seo_aeo_score": 9.26
+  },
+  {
+    "keyword": "how to personalize word art for wedding vows",
+    "title": "How to Personalize Word Art for Wedding Vows: Easy Guide",
+    "description": "Learn how to personalize word art for wedding vows with simple steps, text choices, and layout ideas to create a meaningful, lasting keepsake gift.",
+    "file": "how-to-personalize-word-art-for-wedding-vows.html",
+    "date": "2026-11-06",
+    "archetype": "how_to",
+    "archetype_confidence": 0.83,
+    "risk_level": "low",
+    "requires_human_review": false,
+    "google_quality_passed": true,
+    "eeat_score": 100,
+    "seo_aeo_score": 10.0
   }
 ]
